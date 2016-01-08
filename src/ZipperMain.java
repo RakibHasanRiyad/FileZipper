@@ -55,7 +55,7 @@ public class ZipperMain extends JFrame{
 		main.setTitle("Zipper");
 		main.setVisible(true);
 		main.setLocationRelativeTo(null);
-		main.setSize(400, 100);
+		main.setSize(400, 105);
 	}
 
 }
