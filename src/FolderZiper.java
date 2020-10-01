@@ -20,6 +20,7 @@ public class FolderZiper {
 
     addFolderToZip("", srcFolder, zip);
     zip.flush();
+    //can you tell me why did you put flush here instead of bottom function
     zip.close();
   }
 
